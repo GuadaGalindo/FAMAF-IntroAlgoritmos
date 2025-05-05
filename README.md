@@ -11,5 +11,5 @@ Laboratorios y practicas de parciales resueltas de la materia **"Introducción a
 **Guadalupe Galindo**  
 Estudiante de Ciencias de la Computación FAMAF - UNC
 
-- [LinkedIn](www.linkedin.com/in/guadagalindo)
+- [LinkedIn](https://linkedin.com/in/guadagalindo)
 - [GitHub](https://github.com/GuadaGalindo)
